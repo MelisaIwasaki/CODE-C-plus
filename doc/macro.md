@@ -143,4 +143,4 @@ Resumen:
 - Para acceder a la dirección de memoria de una variable utilizamos «&».
 - Para acceder al contenido de un puntero, utilizamos «*».
 
-![mario](https://user-images.githubusercontent.com/92184167/180662257-4c5fc35e-9600-4ad8-9033-3e61691db59a.jpg)
+
